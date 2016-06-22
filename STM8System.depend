@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1465886410 source:d:\mcuworkspace\stm8\stm8system\main.c
+	<stdint.h>
+	"STM8S.h"
+
+1465888282 d:\mcuworkspace\stm8\stm8system\stm8s.h
+	<stdint.h>
+	"stm8s_conf.h"
+	<intrins.h>
+	<intrinsics.h>
+
+1464439305 d:\mcuworkspace\stm8\stm8system\stm8s_conf.h
+	"stm8s.h"
+	"stm8s_adc1.h"
+	"stm8s_adc2.h"
+	"stm8s_awu.h"
+	"stm8s_beep.h"
+	"stm8s_can.h"
+	"stm8s_clk.h"
+	"stm8s_exti.h"
+	"stm8s_flash.h"
+	"stm8s_gpio.h"
+	"stm8s_i2c.h"
+	"stm8s_itc.h"
+	"stm8s_iwdg.h"
+	"stm8s_rst.h"
+	"stm8s_spi.h"
+	"stm8s_tim1.h"
+	"stm8s_tim2.h"
+	"stm8s_tim3.h"
+	"stm8s_tim4.h"
+	"stm8s_tim5.h"
+	"stm8s_tim6.h"
+	"stm8s_uart1.h"
+	"stm8s_uart2.h"
+	"stm8s_uart3.h"
+	"stm8s_wwdg.h"
+
