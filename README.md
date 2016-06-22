@@ -7,3 +7,4 @@ Based on CPU clock 2MHz and timer4 counter just 8bit,
 time tick is 10.04 milli second could be used by programmer to dispatch different program.
 It is not precise but still could work well.
 
+This project,  compiler is SDCC and IDE is CodeBlocks.
